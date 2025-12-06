@@ -1,17 +1,17 @@
 <h2 align="center">
-    <i>NeonFilter-Bot</i>
+    <i>FaxFilter-Bot</i>
 </h2>
 
-<img src="https://files.catbox.moe/tc8drk.jpg" alt="logo" target="/blank">
+<img src="https://files.catbox.moe/s84uuu.jpg" alt="logo" target="/blank">
 
 _**Watch on Telegram as [ZeroFilter-Bot](https://t.me/zerofilterbot)**_
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ZERO+FILTER+BOT+!!;CREATED+BY+MYSELFNEON+⚡;CODED+WITH+ADVANCED+FEATURES+📝&color=00FF00)
-<a href="https://github.com/MyselfNeon/NeonFilter-Bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FAX+FILTER+BOT+!!;CREATED+BY+FAX+⚡;CODED+WITH+ADVANCED+FEATURES+📝&color=00FF00)
+<a href="https://github.com/arushkaru071-byte/FaxFilterBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Myselfneon/NeonFilter-Bot"> <img src="https://img.shields.io/github/repo-size/myselfneon/NeonFilter-bot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/MyselfNeon/NeonFilter-Bot"> <img src="https://img.shields.io/github/last-commit/MyselfNeon/NeonFilter-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Myselfneon/NeonFilter-Bot"> <img src="https://img.shields.io/github/repo-size/Fax/Filter-bot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/arushkaru071-byte/FaxFilterBot"> <img src="https://img.shields.io/github/last-commit/Fax/faxnFilter-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 ### _Main Features_  🌟
 <b><i>
@@ -64,7 +64,7 @@ Note :
 <details><summary><b><i>Deploy To Heroku</i></b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MyselfNeon/NeonFilter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/arushkaru071-byte/FaxFilterBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -73,7 +73,7 @@ Note :
 <details><summary><b><i>Deploy To Koyeb</i></b></summary>
 <i>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</i>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/MyselfNeon/NeonFilter-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/https://github.com/arushkaru071/faxfilter-Bot)
 </details>
 
 <details><summary><b><i>Deploy on Railway</i></b></summary>
@@ -84,7 +84,7 @@ Note :
 
 <details><summary><i><b>Deploy To Render</b></i></summary>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/MyselfNeon/NeonFilter-Bot">
+<a href="https://render.com/deploy?repo=https://github.com/arushkaru071-byte/FaxFilterBot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -93,7 +93,7 @@ Note :
 <p>
 <pre>
 Use VPS Branch
-git clone https://github.com/MyselfNeon/NeonFilter-Bot
+git clone https://github.com/arushkaru071-byte/FaxFilterBot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit config.py with variables as given below then run bot
@@ -106,7 +106,7 @@ python3 bot.py
 
 ### _Commands_  💬
 ```
-start - 𝑁𝑒𝑜𝑛𝐴𝑛𝑢𝑟𝑎𝑔 𝐵𝑜𝑡 𝑆𝑡𝑎𝑟𝑡
+start - 𝐵𝑜𝑡 𝑆𝑡𝑎𝑟𝑡
 help - 𝑆ℎ𝑜𝑤 𝐻𝑒𝑙𝑝 𝑀𝑒𝑛𝑢
 index - 𝐼𝑛𝑑𝑒𝑥 𝐹𝑖𝑙𝑒 𝐹𝑟𝑜𝑚 𝐶ℎ𝑎𝑛𝑛𝑒𝑙
 setskip - 𝑆𝑘𝑖𝑝 𝐹𝑖𝑙𝑒𝑠 𝑊ℎ𝑒𝑛 𝐼𝑛𝑑𝑒𝑥𝑖𝑛𝑔
@@ -187,28 +187,28 @@ restart - 𝑅𝑒𝑠𝑡𝑎𝑟𝑡 𝐵𝑜𝑡 𝑆𝑒𝑟𝑣𝑒𝑟
 
 <h3>Contact Developer 👨‍💻</h3>
 
-[![Contact Developer](https://img.shields.io/badge/Contact-Developer-blue?logo=telegram)](https://t.me/MyselfNeon)    
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Main%20Channel-blue?logo=telegram)](https://t.me/neonfiles)  
+[![Contact Developer](https://img.shields.io/badge/Contact-Developer-blue?logo=telegram)](t.me/Laser_of_telegram)    
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Main%20Channel-blue?logo=telegram)](https://t.me/faxfiles)  
 Join My <a href='https://t.me/neonfiles'>Update Channel</a> For More Update Regarding Repo.
 
 <h3>Page Visits Counter 📈</h3>
-<a href="https://github.com/MyselfNeon/NeonFilter-Bot"><img alt="Cute Count" src="https://count.getloli.com/get/@NeonFilter-Bot?theme=rule34" /></a>
+<a href="https://github.com/arushkaru071-byte/FaxFilterBot"><img alt="Cute Count" src="https://count.getloli.com/get/@FaxFilter-Bot?theme=rule34" /></a>
 
 <b>This is total number of visitors who have watched this Repo.
 
-### _Special Thanks_  🙏
+###  Thanks_  🙏
  - <b>Thanks To [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork) open-source.
  - Thanks To [Neon An](https://t.me/MyselfNeon) To Modify And Add Amazing Features in Repo
  - Thanks To Everyone who have Contributed In This Repo ❤️</b>
 
 ### _Note_ 📝
  
-[![Contact Developer](https://img.shields.io/badge/Telegram-Contact%20Developer-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://telegram.me/MyselfNeon)   
+[![Contact Developer](https://img.shields.io/badge/Telegram-Contact%20Developer-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://telegram.me/laser_of_telegram)   
 <b>Fork The Repo And Edit As Per Your Needs. Repo is fully Customizable </b>
 
 ### _Licensing & Restrictions_  📜
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-<b>Licensed under [GNU AGPL 2.0.](https://github.com/MyselfNeon/NeonFilter-Bot/blob/main/LICENSE)  
+<b>Licensed under [GNU AGPL 2.0.](https://github.com/arushkaru071-byte/FaxFilterBot)  
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 
 </pre>
