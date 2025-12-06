@@ -4,7 +4,7 @@
 
 <img src="https://files.catbox.moe/s84uuu.jpg" alt="logo" target="/blank">
 
-_**Watch on Telegram as [ZeroFilter-Bot](https://t.me/zerofilterbot)**_
+_**Watch on Telegram as [Fax Filter-Bot](https://t.me/AUTO_FILTER_V4_BOT)**_
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FAX+FILTER+BOT+!!;CREATED+BY+FAX+⚡;CODED+WITH+ADVANCED+FEATURES+📝&color=00FF00)
 <a href="https://github.com/arushkaru071-byte/FaxFilterBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
