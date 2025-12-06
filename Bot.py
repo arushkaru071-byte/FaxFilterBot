@@ -18,8 +18,8 @@ from aiohttp import web
 from plugins import web_server
 from plugins.clone import restart_bots
 
-from Neon.bot import NeonBot
-from Neon.util.keepalive import ping_server
+from faxbot import faxBot
+from fax.util.keepalive import ping_server
 from Neon.bot.clients import initialize_clients
 
 # ------------------- Added Keep-Alive Function -------------------
@@ -71,7 +71,7 @@ async def start():
         mod = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(mod)
         sys.modules[import_path] = mod
-        print(f"✨ Neon Imported => {plugin_name}")
+        print(f"✨ Fax Imported => {plugin_name}")
     # -------------------------------------------------------
 
     if ON_HEROKU:
@@ -95,17 +95,17 @@ async def start():
     now = datetime.now(tz)
     time = now.strftime("%H:%M:%S %p")
     try:
-        await NeonBot.send_message(chat_id=LOG_CHANNEL, text=script.RESTART_TXT.format(today, time))
+        await FaxBot.send_message(chat_id=LOG_CHANNEL, text=script.RESTART_TXT.format(today, time))
     except:
         print("Make Your Bot Admin In Log Channel With Full Rights")
     for ch in CHANNELS:
         try:
-            k = await NeonBot.send_message(chat_id=ch, text="**Bot Restarted**")
+            k = await FaxBot.send_message(chat_id=ch, text="**Bot Restarted**")
             await k.delete()
         except:
             print("Make Your Bot Admin In File Channels With Full Rights")
     try:
-        k = await NeonBot.send_message(chat_id=AUTH_CHANNEL, text="**Bot Restarted**")
+        k = await FaxBot.send_message(chat_id=AUTH_CHANNEL, text="**Bot Restarted**")
         await k.delete()
     except:
         print("Make Your Bot Admin In Force Subscribe Channel With Full Rights")
